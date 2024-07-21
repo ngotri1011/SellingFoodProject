@@ -23,6 +23,7 @@ Open the Project in NetBeans
 1. Open NetBeans 13.
 2. Go to File -> Open Project.
 3. Navigate to the cloned repository and select it.
+
 Configure Tomcat in NetBeans
 1. Open NetBeans.
 2. Go to Tools Servers`.
