@@ -18,6 +18,7 @@ Clone this repository to your local machine using the following command:
 
 ```sh
 git clone https://github.com/your-username/your-repository.git
+```
 Open the Project in NetBeans
 1. Open NetBeans 13.
 2. Go to `File` -> `Open Project`.
@@ -34,7 +35,7 @@ Build and Deploy the Project
 1. In NetBeans, right-click on the project in the Projects` pane.
 2. Select clean and Build`.
 3. Once the build is successful, right-click on the project again.
-4. Select Run`.
+4. Select Run.
 NetBeans will deploy the project to the configured Tomcat server and open it in your default web browser.
 Project Structure
 The basic structure of the project is as follows:
