@@ -72,6 +72,7 @@ my-java-jsp-project/
 Additional Resources
 
 https://netbeans.apache.org/tutorial/main/kb/
+
 https://tomcat.apache.org/tomcat-10.0-doc/index.html
 https://docs.oracle.com/en/java/javase/11/
 
