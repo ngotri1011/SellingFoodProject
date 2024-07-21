@@ -21,13 +21,13 @@ git clone https://github.com/your-username/your-repository.git
 ```
 Open the Project in NetBeans
 1. Open NetBeans 13.
-2. Go to `File` -> `Open Project`.
+2. Go to File -> Open Project.
 3. Navigate to the cloned repository and select it.
 Configure Tomcat in NetBeans
 1. Open NetBeans.
 2. Go to Tools Servers`.
-3. Click on `Add Server`.
-4. Select `Apache Tomcat or TomEE`.
+3. Click on Add Server.
+4. Select Apache Tomcat or TomEE.
 5. Click Next`.
 6. Browse to the location where Tomcat 10.0 is installed and select it.
 7. Click Finish`.
