@@ -70,21 +70,26 @@ my-java-jsp-project/
 └── pom.xml (if using Maven)
 
 Additional Resources
+
 https://netbeans.apache.org/tutorial/main/kb/
 https://tomcat.apache.org/tomcat-10.0-doc/index.html
 https://docs.oracle.com/en/java/javase/11/
 
 Troubleshooting
+
 If you encounter any issues, check the following:
+
 Ensure that the correct JDK is selected in NetBeans.
 Verify that Tomcat is properly configured and running.
 Check the Output` window in NetBeans for any error messages.
 Feel free to reach out if you have any questions or need further assistance.
 
 Contributing
+
 Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 This `README.md` provides a comprehensive guide to setting up and running the project in NetBeans with Tomcat. It covers prerequisites, setup steps, project structure, and additional resources. Feel free to modify it according to your project's specific needs and details.
