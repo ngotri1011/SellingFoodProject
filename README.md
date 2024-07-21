@@ -38,9 +38,13 @@ Build and Deploy the Project
 2. Select clean and Build`.
 3. Once the build is successful, right-click on the project again.
 4. Select Run.
+
 NetBeans will deploy the project to the configured Tomcat server and open it in your default web browser.
+
 Project Structure
+
 The basic structure of the project is as follows:
+
 my-java-jsp-project/
 │
 ├── build/
