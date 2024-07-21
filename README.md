@@ -32,6 +32,7 @@ Configure Tomcat in NetBeans
 5. Click Next`.
 6. Browse to the location where Tomcat 10.0 is installed and select it.
 7. Click Finish`.
+
 Build and Deploy the Project
 1. In NetBeans, right-click on the project in the Projects` pane.
 2. Select clean and Build`.
